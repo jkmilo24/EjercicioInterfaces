@@ -1,4 +1,5 @@
 package pk01;
+
 public class PrincipalInterfaz {
 public static void main(String[] args) {
         System.out.println("=== Camioneta ===");

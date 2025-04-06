@@ -1,4 +1,5 @@
 package pk01;
+
 public class Acuatico extends Vehiculo implements Vela {
     private String tipo;
     private int capacidadPasajeros;
